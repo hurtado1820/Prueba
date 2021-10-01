@@ -23,4 +23,4 @@ _Ejemplo:_
 - ([(]{)})	-> incorrecto
 
 ## Visualización
-Se puede observar la solución directamente en los archivos de GitHub, o si lo desea puede seleccionar la opción de 'Abrir en Colab' para poderlo ejecutar y probar en línea 
+Se puede observar la solución directamente en los archivos de GitHub, o si lo desea puede seleccionar la opción en la parte superior del documento donde dice 'Abrir en Colab' para poderlo ejecutar y probar en línea 
